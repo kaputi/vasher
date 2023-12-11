@@ -1,0 +1,18 @@
+# directories
+node_modules/
+dist/
+dist-*/
+staging/
+build/
+devBuild/
+lib
+lib-esm
+_bundles
+
+# env
+*.env
+
+# logs
+*.log
+.log/**/*
+log/**/*
